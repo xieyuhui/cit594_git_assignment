@@ -19,6 +19,8 @@ Weizhuo Wu  weizhuo
 Sheng Huang shehuang
 Qing Xie qingxie
 Andy Ye	andyye
-Arpit Jain arpitjQing Xie qingxie
-Greg Smith gresmithQing Xie qingxie
-Mengyao Chai mengyaocAnchal Khanna anchalk
+Arpit Jain arpitj
+Qing Xie qingxie
+Greg Smith gresmith
+Mengyao Chai mengyaoc
+Anchal Khanna anchalk
